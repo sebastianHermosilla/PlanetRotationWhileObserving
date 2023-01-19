@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import Sky2Planet as S2P
+import Code.Sky2Planet as S2P
 
 obs_pos = np.array([[284.843188, -22.5476],
                     [284.843243, -22.54649],

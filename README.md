@@ -11,5 +11,5 @@ To achieve this, rotation matrices are used on the planet, so that the planet is
   style="display: block;
   margin-left: 25%;
   margin-right: 25%;
-  width: 55%;
+  width: 65%;
   text-align: center;"></center>

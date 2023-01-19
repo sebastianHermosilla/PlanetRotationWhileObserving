@@ -5,7 +5,7 @@ The goal of this repository is to give a series of functions that allow locating
 To achieve this, rotation matrices are used on the planet, so that the planet is oriented at a convenient angle to handle its rotation.
 
 <img
-  src="images/SaturnoColoreado.PNG"
+  src="Images/SaturnoColoreado.PNG"
   alt="Alt text"
   title="reconstruction of Saturn considering the rotation from several observations"
   style="display: block;
